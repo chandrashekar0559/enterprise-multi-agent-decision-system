@@ -1,0 +1,12 @@
+[project]
+name = "enterprise-multi-agent-decision-system"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=1.4.3",
+    "langchain-community>=0.4.2",
+    "pytest>=9.1.1",
+    "python-dotenv>=1.2.4",
+]
